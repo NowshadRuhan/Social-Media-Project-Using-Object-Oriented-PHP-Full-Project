@@ -1,4 +1,4 @@
-*.csharp linguist-detectable=false  
+ *.* linguist-language=PHP
 *.php linguist-detectable=true 
 *.js linguist-detectable=true  
 *.html linguist-detectable=true  
